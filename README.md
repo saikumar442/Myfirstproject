@@ -32,3 +32,8 @@ Ring buffer: Managing the read and write positions was important to make sure th
 Multiple files: Separating the program into .h and .c files helped me understand how larger C projects are organized.
 
 I also practiced compiling, testing and correcting errors in my programs.
+TOOLS : 
+C
+GCC
+GIT
+GITHUB
